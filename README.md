@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a blockchain Application developer, I'd like to make some contributions for .net open source and share some thoughts on my blog and github.
+I'm a blockchain Application developer,I'm living in China now. I'd like to make some contributions for .net open source and share some thoughts on my blog and github.
 
 
 ### Contact me
